@@ -10,10 +10,10 @@ public class Praktikum {
         Hamster paskal = new Hamster();
         paskal.name = "Паскаль";
         
-        System.out.println("Первого хомяка зовут " + bite.name);
-        System.out.println("Второго хомяка зовут " + ninja.name);
-        System.out.println("Третьего хомяка зовут " + kuzya.name);
-        System.out.println("Четвертого хомяка зовут " + paskal.name);
+        System.out.println("Первого хомякка зовут " + bite.name);
+        System.out.println("Второго хомякка зовут " + ninja.name);
+        System.out.println("Третьего хомякка зовут " + kuzya.name);
+        System.out.println("Четвертого хомякка зовут " + paskal.name);
     }
 } 
 
@@ -30,5 +30,6 @@ public class Hamster {
     age = hamsterAge;
     weight = hamsterWeight;
     color = hamsterColor;
+    
     }
 }
