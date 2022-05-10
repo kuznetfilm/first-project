@@ -24,7 +24,7 @@ public class Hamster {
   int weight;   // Вес в граммах
   String color; // Цвет
     
-  // Конструктор принимает 4 параметра
+  // Конструктор принимает 5 параметров но записано 4 общем пишу чушь
     Hamster(String hamsterName, int hamsterAge, int hamsterWeight, String hamsterColor) {
         name = hamsterName;
     age = hamsterAge;
